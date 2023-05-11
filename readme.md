@@ -16,8 +16,9 @@ personnelle.
 
 ## Technologies utilisées
 
-Ce projet a été réalisé avec les langages et frameworks suivants:
+Ce projet a été réalisé avec les outils, langages et frameworks suivants:
 
+- FIGMA (lien vers la maquette FIGMA : " https://www.figma.com/file/KF4cJoitWHjwA92VEivfD0/Untitled?type=design&node-id=1%3A287&t=p2vdtXvKl9jPxOdm-1 "
 - HTML5
 - CSS3
 - JavaScript (si applicable)
